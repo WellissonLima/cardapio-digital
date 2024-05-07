@@ -1954,7 +1954,7 @@ video {
 }
 
 .bg-home {
-  background-image: url('/src/images/bg.png');
+  background-image: url('./src/images/bg.png');
 }
 
 .decoration-slice {
